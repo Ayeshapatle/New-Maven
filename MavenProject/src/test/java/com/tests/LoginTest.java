@@ -13,4 +13,9 @@ public class LoginTest extends LoginPage {
 		System.out.println("Login Test");
 	}
 
+	@Test
+	public void test2() {
+		
+		System.out.println("Login Test 2");
+	}
 }

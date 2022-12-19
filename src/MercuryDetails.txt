@@ -1,0 +1,12 @@
+Url=https://demo.guru99.com/test/newtours/register.php
+FirstN=Ayesha
+LastN=R
+Mobile=7030733623
+Id=ayshapatle18@gmail.com
+Addr=WanjaiNagar
+City=Nagpur
+State=Maharashtra
+PC=440010
+UN=Ayesha
+Pass=Ayesha10
+CP=Ayesha10
